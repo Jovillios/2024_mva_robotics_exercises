@@ -1,4 +1,4 @@
-# Robotic course, XXXX, 20YY
+# Robotic MVA 2024
 
 This repository contains the exercices for the MVA robotics class, 2024.
 The exercices are organized by notebook. Each notebook corresponds to one chapter of the class.
